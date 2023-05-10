@@ -1,4 +1,4 @@
-# TS + Recoil 素振り
+# TS + Recoil の写経
 
 下記の写経。
 
